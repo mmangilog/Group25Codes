@@ -2,65 +2,68 @@
     <head>
         <title>Group 25 in TLE</title>
     </head>
+<body>
+  <section class="nav">
+    <h1>FRONTEND TRENDS</h1>
+    <h3 class="span loader">
+      <span class='m'>B</span>
+      <span class='m'>E</span>
+      <span class='m'>N</span>
+      <span class='m'>E</span>
+      <span class='m'>F</span>
+      <span class='m'>I</span>
+      <span class='m'>T</span>
+      <span class='m'>S</span>
+      <span class='m'>&nbsp;</span>
+      <span class='m'>o</span>
+      <span class='m'>f</span>
+      <span class='m'>&nbsp;</span>
+      <span class='m'>T</span>
+      <span class='m'>E</span>
+      <span class='m'>C</span>
+      <span class='m'>H</span>
+      <span class='m'>N</span>
+      <span class='m'>O</span>
+      <span class='m'>L</span>
+      <span class='m'>O</span>
+      <span class='m'>G</span>
 
-    <body>
-    <style>
-        * {
-          box-sizing: border-box;
-        }
-        
-        body {
-          font-family: Georgia, Helvetica, Georgia;
-          margin: 0;
-        }
-        
-        /* Style the header */
-        .header {
-          padding: 100px;
-          text-align: center;
-          background: #A0816C;
-          color: white;
-        }
-        
-        /* Increase the font size of the h1 element */
-        .header h1 {
-          font-size: 35px;
-        }
-        
-        /* Style the top navigation bar */
-        .navbar {
-          overflow: hidden;
-          background-color: #333;
-        }
-        
-        /* Style the navigation bar links */
-        .navbar a {
-          float: left;
-          display: block;
-          color: white;
-          text-align: center;
-          padding: 14px 20px;
-          text-decoration: none;
-        }
+      <span class='m'>I</span>
+      <span class='m'>E</span>
+      <span class='m'>S</span>
+    </h3>
+    <div class="nav-container">
+      <a class="nav-tab" href="#tab-pwa">PWA</a>
+      <a class="nav-tab" href="#tab-graphql">GraphQL</a>
+      <a class="nav-tab" href="#tab-next">NEXT</a>
+      <a class="nav-tab" href="#tab-typescript">TYPESCRIPT</a>
+      <a class="nav-tab" href="#tab-deno">DENO</a>
+      <span class="nav-tab-slider"></span>
+    </div>
+  </section>
 
-        /* Change color on hover */
-        .navbar a:hover {
-        background-color: #ddd;
-        color: black;
-        }
-
-    </style>
-    </head>    
-    <body bgcolor="#D1C0A8">
-
-<div class="header">
-  <h1>Group 25 TLE Scaffold #1</h1>
-  <p>A website created by us.</p>
-</div>
-
-<div class="navbar">
-  <a href="#">CAE</a>
-  <a href="#">CLE</a>
-  <a href="#">Mathematics</a>
-  <a href="#">Social Science</a>
-</div>
+  <main class="main">
+    <section class="slider" id="tab-pwa">
+      <h1>PWA</h1>
+      <h2>the best of both worlds...</h2>
+    </section>
+    <section class="slider" id="tab-graphql">
+      <h1>GraphQL</h1>
+      <h2>a query language for APIs</h2>
+    </section>
+    <section class="slider" id="tab-next">
+      <h1>NEXT</h1>
+      <h2>framework
+        for Production</h2>
+    </section>
+    <section class="slider" id="tab-typescript">
+      <h1>TYPESCRIPT</h1>
+      <h2>giving you better tooling at any scale</h2>
+    </section>
+    <section class="slider" id="tab-deno">
+      <h1>DENO</h1>
+      <h2>a modern runtime </h2>
+    </section>
+  </main>
+  <canvas class="background"></canvas>
+</body>
