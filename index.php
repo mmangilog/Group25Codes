@@ -1,3 +1,4 @@
+
 <html>
     <head>
         <title>Group 25 in TLE</title>
@@ -64,31 +65,3 @@
   <a href="#">Mathematics</a>
   <a href="#">Social Science</a>
 </div>
-    </div>
-  </section>
-
-  <main class="main">
-    <section class="slider" id="tab-pwa">
-      <h1>PWA</h1>
-      <h2>the best of both worlds...</h2>
-    </section>
-    <section class="slider" id="tab-graphql">
-      <h1>GraphQL</h1>
-      <h2>a query language for APIs</h2>
-    </section>
-    <section class="slider" id="tab-next">
-      <h1>NEXT</h1>
-      <h2>framework
-        for Production</h2>
-    </section>
-    <section class="slider" id="tab-typescript">
-      <h1>TYPESCRIPT</h1>
-      <h2>giving you better tooling at any scale</h2>
-    </section>
-    <section class="slider" id="tab-deno">
-      <h1>DENO</h1>
-      <h2>a modern runtime </h2>
-    </section>
-  </main>
-  <canvas class="background"></canvas>
-</body>
