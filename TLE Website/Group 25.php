@@ -116,5 +116,5 @@ footer {
       <p>Group 25 Copyright &copy; 2022</p>
     </font>
     </footer>
-  </body>
+  </body>  
 
