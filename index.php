@@ -1,10 +1,12 @@
 <html>
+  
   <head>
     <meta charset="utf-8">
     <meta name="viewwport"content="width=device-width">
     <title>Group 25 in TLE</title>
-    <link rel="stylesheet" href="./style.php">
+    <link rel="stylesheet" href="./css/style.css">
   </head>
+  
   <body>
     <header>
       <div class="container">
