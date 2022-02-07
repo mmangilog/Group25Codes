@@ -12,6 +12,9 @@
   padding:0;
   margin:0;
   background-color:#4a2f34;
+  font-color:#d8b370;
+  text-decoration:none;
+  font-size:16px;
 }
 
 /* Global */
@@ -96,7 +99,7 @@ footer {
       <div class="container">
         <div class="box">
           <font color="#d8b370">
-          <h3><a href="cae.html">CAE>/a></h3>
+          <h3><a href="cae.html">CAE</a></h3>
           <p>Performance Task in CAE</p>
         </font>
       </div>
