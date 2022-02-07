@@ -3,6 +3,8 @@
     <meta name="viewwport"content="width=device-width">
     <title>Group 25 in TLE</title>
     
+    <style>
+        
     body{
   font: 15px/2 Arial, Helvetica, sans-serif;
   padding:0;
@@ -67,7 +69,8 @@ footer {
   text-align: center;
   width: 10%;
 }
-  </head>
+
+    </style>
 
   <body>
     <header>
