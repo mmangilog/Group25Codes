@@ -4,15 +4,16 @@
     <meta name="viewwport"content="width=device-width">
     <title>Group 25 in TLE</title>
     <link rel="icon" href="./img/Number 25.ico">
+    <link rel="stylesheet" href="./css/style.css">
     
     <style>
-        
+      
   body{
   font: 15px/2 Arial, Helvetica, sans-serif;
   padding:0;
   margin:0;
   background-color:#4a2f34;
-  
+}
 
 /* Global */
 .container{
@@ -53,7 +54,6 @@ header #branding{
 }
 
 header #branding h1{
-  font-size:10;
   margin:0;
 }
 
@@ -75,12 +75,11 @@ footer {
 
     </style>
   </head>
-
   <body>
     <header>
       <div class="container">
         <div id="branding">
-          <h1><a href="https://group25website.herokuapp.com/">Scaffold #1 in TLE</a></h1>
+          <h1>Scaffold #1 in TLE</h1>
       </div>
         <nav>
           <ul>
@@ -102,13 +101,13 @@ footer {
       </div>
       <div class="box">
         <font color="#d8b370">
-          <h3>CLE</h3>
+        <h3>CLE</h3>
         <p>Performance Task in CLE</p>
       </font>
       </div>
         <div class="box">
           <font color="#d8b370">
-            <h3>Mathematics</h3>
+          <h3>Mathematics</h3>
           <p>Performance Task in Math</p>
         </font>
         </div>
@@ -120,5 +119,5 @@ footer {
       <p>Group 25 Copyright &copy; 2022</p>
     </font>
     </footer>
-  </body>  
-    </html>
+  </body>
+</html>
