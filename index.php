@@ -53,6 +53,7 @@ header #branding{
 }
 
 header #branding h1{
+  font-size:10;
   margin:0;
 }
 
