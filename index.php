@@ -11,7 +11,8 @@
   font: 15px/2 Arial, Helvetica, sans-serif;
   padding:0;
   margin:0;
-}
+  background-color:#4a2f34;
+  
 
 /* Global */
 .container{
