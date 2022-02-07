@@ -7,7 +7,7 @@
     
     <style>
         
-    body{
+  body{
   font: 15px/2 Arial, Helvetica, sans-serif;
   padding:0;
   margin:0;
@@ -79,7 +79,7 @@ footer {
     <header>
       <div class="container">
         <div id="branding">
-          <h1>Scaffold #1 in TLE</h1>
+          <h1 href="https://group25website.herokuapp.com/">Scaffold #1 in TLE</h1>
       </div>
         <nav>
           <ul>
