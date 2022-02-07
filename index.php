@@ -96,19 +96,19 @@ footer {
       <div class="container">
         <div class="box">
           <font color="#d8b370">
-          <h3>CAE</h3>
+          <h3><a href="cae.html">CAE>/a></h3>
           <p>Performance Task in CAE</p>
         </font>
       </div>
       <div class="box">
         <font color="#d8b370">
-        <h3>CLE</h3>
+          <h3><a href="cle.html">CLE</a></h3>
         <p>Performance Task in CLE</p>
       </font>
       </div>
         <div class="box">
           <font color="#d8b370">
-          <h3>Mathematics</h3>
+            <h3><a href="math.html">Mathematics</a></h3>
           <p>Performance Task in Math</p>
         </font>
         </div>
