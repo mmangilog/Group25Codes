@@ -79,7 +79,7 @@ footer {
     <header>
       <div class="container">
         <div id="branding">
-          <h1 a href="https://group25website.herokuapp.com/">Scaffold #1 in TLE</h1>
+          <h1><a href="https://group25website.herokuapp.com/">Scaffold #1 in TLE</a></h1>
       </div>
         <nav>
           <ul>
