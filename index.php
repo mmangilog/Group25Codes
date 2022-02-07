@@ -3,7 +3,7 @@
     <meta charset="utf-8">
     <meta name="viewwport"content="width=device-width">
     <title>Group 25 in TLE</title>
-    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./style.php">
   </head>
   <body>
     <header>
