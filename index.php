@@ -81,6 +81,8 @@ footer {
     <section id="boxes">
       <div class="container">
         <div class="box">
+        <nav>
+        <ul
           <font color="#d8b370">
           <li><a href="CAE.html">CAE</a></li>
           <p>Performance Task in CAE</p>
