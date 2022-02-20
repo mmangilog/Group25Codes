@@ -4,7 +4,6 @@
     <meta name="viewwport"content="width=device-width">
     <title>Group 25 in TLE</title>
     <link rel="icon" href="./img/Number 25.ico">
-    <link rel="stylesheet" href="./css/style.css">
     
     <style>
       
@@ -14,14 +13,12 @@
   margin:0;
   background-color:#4a2f34;
 }
-
 /* Global */
 .container{
   width:80%;
   margin:auto;
   overflow:hidden;
 }
-
 /* Header **/
 header{
   background:#6b4a50;
@@ -30,56 +27,47 @@ header{
   min-height:70px;
   border-bottom:#351608 10px solid;
 }
-
 header a{
   color:#d8b370;
   text-decoration:none;
   text-transform: uppercase;
   font-size:16px;
 }
-
 header ul{
   margin:0;
   padding:0;
 }
-
 header li{
   float-left;
   display:inline;
   padding: 0 20px 0 20px;
 }
-
 header #branding{
   float:left;
 }
-
 header #branding h1{
   margin:0;
 }
-
 header nav{
   float:right;
   margin-top:10px;
 }
-
 header a:hover{
   color:#d8b370;
   font-weight:bold;
 }
-
 footer {
   margin: 0 auto;
   text-align: center;
   width: 10%;
 }
-
     </style>
   </head>
   <body>
     <header>
       <div class="container">
         <div id="branding">
-          <h1>Scaffold #1 in TLE</h1>
+          <h1>Group 25 Website (9A)</h1>
       </div>
         <nav>
           <ul>
@@ -90,7 +78,6 @@ footer {
         </nav>
       </div>
     </header>
-
     <section id="boxes">
       <div class="container">
         <div class="box">
@@ -113,7 +100,6 @@ footer {
         </div>
       </div>
     </section>
-
     <footer>
       <font color="#d8b370">
       <p>Group 25 Copyright &copy; 2022</p>
