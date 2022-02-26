@@ -72,7 +72,7 @@ footer {
         <nav>
           <ul>
               <li><a href="Teachers.html">Teachers</a></li>
-              <li><a href="About Us.html">About Us</a></li>
+              <li><a href="Members.html">Members</a></li>
           </ul>
         </nav>
       </div>
