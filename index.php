@@ -97,8 +97,8 @@ footer {
           <font color="#d8b370">
           <h3>Mathematics</h3>
           <p>Performance Tasks:</p>
-          <p><a href="https://youtu.be/Pt8fBk2ZlOU">Math PT Video</a></p>
-          <p><a href="Math PT Artwork (Group 6 9A).png" download="Math Artwork">Math Hope Artwork</a></p>
+          <p><a href="https://youtu.be/Pt8fBk2ZlOU">Math HOPE Video</a></p>
+          <p><a href="Math PT Artwork (Group 6 9A).png" download="Math HOPE Artwork">Math HOPE Artwork</a></p>
         </font>
         </div>
       </div>
