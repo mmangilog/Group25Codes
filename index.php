@@ -70,10 +70,9 @@ footer {
           <h1>Group 25 Website (9A)</h1>
       </div>
         <nav>
-          <ul>
-              <li><a href="index.html">Home</a></li>
+          <ul>          
               <li><a href="Teachers.html">Teachers</a></li>
-              <li><a href="About Us.html">About Us</a></li>
+              <li><a href="Members.html">Members</a></li>
           </ul>
         </nav>
       </div>
