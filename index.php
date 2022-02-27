@@ -11,7 +11,7 @@
   font: 15px/2 Arial, Helvetica, sans-serif;
   padding:0;
   margin:0;
-  background-color:#4a2f34;
+  background-color:#1c394b;
 }
 /* Global */
 .container{
@@ -21,11 +21,11 @@
 }
 /* Header **/
 header{
-  background:#6b4a50;
+  background:#2b4f61;
   color:#d8b370;
   padding-top:30px;
   min-height:70px;
-  border-bottom:#351608 10px solid;
+  border-bottom:#153438 15px solid;
 }
 header a{
   color:#d8b370;
@@ -82,17 +82,23 @@ footer {
         <div class="box">
           <font color="#d8b370">
           <h3>CAE</h3>
+          <p>Performance Tasks:</p>
+            
         </font>
       </div>
       <div class="box">
         <font color="#d8b370">
         <h3>CLE</h3>
+        <p>Performance Tasks:</p>
+          
       </font>
       </div>
         <div class="box">
           <font color="#d8b370">
           <h3>Mathematics</h3>
+          <p>Performance Tasks:</p>
           <p><a href="https://youtu.be/Pt8fBk2ZlOU">Math PT Video</a></p>
+          <p><a href="Math PT Artwork (Group 6 9A).png" download="Math Artwork">Math Hope Artwork</a></p>
         </font>
         </div>
       </div>
