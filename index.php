@@ -2,7 +2,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewwport"content="width=device-width">
-    <title>Group 25 in TLE</title>
+    <title>Group 6 in TLE</title>
     <link rel="icon" href="./img/Number 25.ico">
     
     <style>
