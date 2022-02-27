@@ -71,8 +71,9 @@ footer {
       </div>
         <nav>
           <ul>
+              <li><a href="index.html">Home</a></li>
               <li><a href="Teachers.html">Teachers</a></li>
-              <li><a href="Members.html">Members</a></li>
+              <li><a href="About Us.html">About Us</a></li>
           </ul>
         </nav>
       </div>
@@ -95,6 +96,7 @@ footer {
           <font color="#d8b370">
           <h3>Mathematics</h3>
           <p>Performance Task in Math</p>
+          <p><a href="https://youtu.be/Pt8fBk2ZlOU">Math PT Video</a></p>
         </font>
         </div>
       </div>
