@@ -67,7 +67,7 @@ footer {
     <header>
       <div class="container">
         <div id="branding">
-          <h1>Group 25 Website (9A)</h1>
+          <h1>Group 6 Website (9A)</h1>
       </div>
         <nav>
           <ul>          
