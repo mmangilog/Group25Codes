@@ -82,13 +82,15 @@ footer {
         <div class="box">
           <font color="#d8b370">
           <h3>CAE</h3>
+          <p>Performance Tasks:</p>
+          <p><a href="CAE CRITIQUE PAPER (Group 6 9A).pdf" download="CAE PT Group 6 9A">CAE Critique Paper</a></p>        
         </font>
       </div>
       <div class="box">
         <font color="#d8b370">
         <h3>CLE</h3>
         <p>Performance Tasks:</p>
-        <p><a href="CLE PT (Group 6 9A).pdf" download="CLE PT">CLE PT Paper</a></p>
+        <p><a href="CLE PT (Group 6 9A).pdf" download="CLE PT Group 6 9A">CLE PT Paper</a></p>
       </font>
       </div>
         <div class="box">
