@@ -82,19 +82,16 @@ footer {
         <div class="box">
           <font color="#d8b370">
           <h3>CAE</h3>
-          <p>Performance Task in CAE</p>
         </font>
       </div>
       <div class="box">
         <font color="#d8b370">
         <h3>CLE</h3>
-        <p>Performance Task in CLE</p>
       </font>
       </div>
         <div class="box">
           <font color="#d8b370">
           <h3>Mathematics</h3>
-          <p>Performance Task in Math</p>
           <p><a href="https://youtu.be/Pt8fBk2ZlOU">Math PT Video</a></p>
         </font>
         </div>
